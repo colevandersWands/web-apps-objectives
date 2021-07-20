@@ -2,6 +2,16 @@
 
 drafting learning objectives and project outline for the [web-apps](https://github.com/hackyourfuturebeglium/web-apps) re-write
 
+## weeks outline
+
+very big-picture objectives for each week based on what the students should have finished building:
+
+1. _solo project_: create an API with restful routing conventions using Express.js. the code should be split into multiple files (they will have starter code)
+2. _solo project_: add some middleware and authentication to the project from last week
+3. _group project_: a restful API with authentication
+4. _group project_: continue the API, plan the frontend
+5. _group project_: finish the API, have an MVP frontend
+
 ## open questions
 
 - how generate docs for the API
